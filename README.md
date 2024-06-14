@@ -10,6 +10,9 @@ Images of the project:
 ![Group 3](https://github.com/srknsam8/Maharashtra-Guesthouse/assets/90851413/a129e89b-fc39-458a-bbea-219c6c430a34)
 ![Group 4](https://github.com/srknsam8/Maharashtra-Guesthouse/assets/90851413/93d7d379-ce5a-4d16-8814-ecd57779d72e)
 ![Group 5](https://github.com/srknsam8/Maharashtra-Guesthouse/assets/90851413/0c7a41df-9a2f-4508-9c38-4a4b2046610f)
+![Group 6](https://github.com/srknsam8/Maharashtra-Guesthouse/assets/90851413/2aec44db-46f3-4038-8eae-685df1941130)
+
+
 
 
 
