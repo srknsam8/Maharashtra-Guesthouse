@@ -1,6 +1,8 @@
 I did an UI/UX project for the maharashtra government's Guest House booking app.
 
-- I learnt through this project how many intricate details are there in a fully function apps.
+Figma Link: https://www.figma.com/design/SxCBwoLEYST0A9vAmQUnZm/GuestHouse?node-id=0-1&t=YZ4jsmqf4EEpO7A6-1
+
+- I learnt through this project that how many intricate details are there in a fully function app.
 - It had several components like document verification, review system, editing of personal information, summary of the booking, room selection, etc.
 - This UI was very comprehensive and you can see all the componenets in the screenshots provided.
 
